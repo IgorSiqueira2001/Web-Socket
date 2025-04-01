@@ -56,7 +56,7 @@ cl server.c /link ws2_32.lib
 - Log de requisições para análise posterior.
 
 ## Autor
-Projeto desenvolvido por [Seu Nome].
+Projeto desenvolvido por mim, Igor Antonio.
 
 ---
 Caso tenha dúvidas ou queira contribuir, sinta-se à vontade para sugerir melhorias!
